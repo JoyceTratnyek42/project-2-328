@@ -30,7 +30,7 @@ body {
   color: #F0F0F0;
   margin: 0;
   padding: 0 30px;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Squid Boy', sans-serif;
   text-rendering: geometricprecision;
   -webkit-font-smoothing: subpixel-antialiased;  
   line-height: 1.4;
@@ -96,6 +96,7 @@ a {
 .album {
     
     border: 1px solid black;
+    font-family: 'Squid Boy', sans-serif;
     background-color: rgba(255,255,255,70%); 
     color: #258803;
     font-size: 18px;
